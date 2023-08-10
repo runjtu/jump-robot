@@ -1,0 +1,125 @@
+/**index.wxss**/
+.container .bluetooth {
+  width: 90%;
+  height: auto;
+  margin: 0 auto;
+  margin-top: 50rpx;
+}
+
+.container .device_list {
+  width: 100%;
+  height: auto;
+  padding-bottom: 30rpx;
+}
+
+.container .device_list .place {
+  width: 90%;
+  margin: 0 auto;
+  background: rgba(153, 153, 153, 0.1);
+}
+
+.container .device_list .place {
+  box-sizing: border-box;
+  padding: 20rpx;
+  color: rgba(125, 124, 124, 1);
+}
+
+.container .device_list .list {
+  width: 90%;
+  height: 400rpx;
+  background: rgba(153, 153, 153, 0.1);
+  overflow-y: auto;
+  margin: 0 auto;
+  border-radius: 20rpx;
+  border-top-left-radius: 0;
+  border-top-right-radius: 0;
+}
+
+.container .device_list .list .li {
+  margin: 0 0  20rpx 20rpx;
+}
+
+.container .uptown_box {
+  width: 90%;
+  height: 100rpx;
+  margin: 20rpx auto;
+  display: flex;
+  background: rgb(204, 243, 165);
+  border-radius: 10rpx;
+  color: #f53232;
+}
+
+.container .uptown_box .left {
+  width: 30%;
+  height: 100rpx;
+  padding-left: 20rpx;
+  line-height: 100rpx;
+  text-align: center;
+  border-right: 1rpx solid #ffffff;
+}
+
+.container .uptown_box .right {
+  width: calc(100% - 30%);
+  height: 100rpx;
+  line-height: 100rpx;
+  text-align: right;
+  padding-right: 30rpx;
+}
+
+
+.container .btn_box {
+  width: 690rpx;
+  margin: 0 auto;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+}
+
+.container .btn_box button {
+  width: 30%;
+  margin-bottom: 20rpx;
+  font-size: 26rpx;
+  background: linear-gradient(0deg, #05C1F7, #6EDFFF);
+  color: #ffffff;
+}
+
+.container .content_box {
+  display: flex;
+  width: 90%;
+  margin: 0 auto;
+}
+
+.container .content_box .post_data {
+  width: 100%;
+  height: 300rpx;
+  margin: 0rpx auto;
+  border-radius: 20rpx;
+  box-sizing: border-box;
+  padding: 20rpx;
+  font-size: 30rpx;
+  background: rgba(153, 153, 153, 0.1);
+  color: rgba(51, 51, 51, 1);
+}
+.container .time{
+    width: 80%;
+    background: rgba(93, 141, 165, 0.1); 
+    text-align: center;
+    border-radius: 20rpx;
+    font-size: 30rpx;
+    padding: 20rpx;
+    margin: 0rpx auto;  
+} 
+
+.cameraView {
+
+  width: 100%;
+  height: 400rpx;
+  /* height: 100%; */
+
+  /* transform: rotate(90deg); */
+
+  background-color: #eee;
+
+  justify-content: center;
+
+}

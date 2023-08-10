@@ -1,0 +1,15 @@
+/**app.wxss**/
+.container {
+  width: 100%;
+  height: auto;
+}
+
+.space50 {
+  width: 100%;
+  height: 50rpx;
+}
+
+.space100 {
+  width: 100%;
+  height: 100rpx;
+}

@@ -1,0 +1,65 @@
+<!--index.wxml-->
+<!-- <view class="page-section tc">
+    <image class='cameraView' src='http://192.168.137.21:8080/?action=stream' style="z-index:1"></image>
+</view> -->
+
+<view class="container">
+  <view class="space50"></view>
+  <view class="btn_box">
+    <button catchtap="setValidte">纯展翅</button>
+    <button catchtap="setValidte3">收翅</button>
+    <button catchtap="sendOpen">一直解蓄</button>
+    <button catchtap="setValidte1">蓄力</button>
+    <button catchtap="setValidteT">蓄</button>   
+    <button catchtap="setValidte2">展翅</button>
+    <button catchtap="setValidte0">小蓄力</button>
+    <button catchtap="setValidteS">停</button>  
+    <button catchtap="setValidteA">小展翅</button>
+    <button catchtap="setValidte7">左转</button>
+    <button ></button>  
+    <button catchtap="setValidte8">右转</button>
+    <button catchtap="setValidtea">前进</button>
+    <button catchtap="setValidtex">停止前进</button>
+    <button catchtap="setValidte9">后退</button>
+    <button catchtap="setValidte9">倒—前进</button>
+    <button catchtap="setValidtea">倒—后退</button>
+  
+   
+
+  </view>
+  <view class="space50"></view>
+
+  <view class="device_list">
+    <view class="place">蓝牙设备列表</view>
+    <view class="list">
+      <view class="li" wx:for="{{devicesList}}" wx:for-item="device" wx:key="index">
+        <label for="index_{{index}}">
+          <checkbox id="index_{{index}}" checked="{{deviceIndex == index?true:false}}" catchtap="selectDev"
+            data-id="{{device.deviceId}}" data-index="{{index}}">
+            <view>{{device.deviceId}}</view>
+            <view>{{device.name}}</view>
+          </checkbox>
+        </label>
+      </view>
+    </view>
+  </view>
+
+  <view class="btn_box">
+    <button catchtap="startBluetooth">搜索设备</button>
+    <button catchtap="onStopDevice">停止搜索</button>
+    <button catchtap="connectTO">连接设备</button>
+    <button catchtap="sendMessages">发送数据</button>
+  </view>
+  <view class="content_box">
+    <textarea bindinput="sendData" class="post_data" placeholder="请输入发送数据" placeholder-class="place"
+      ></textarea>
+  </view>
+</view>
+
+<!-- <view class="page-section tc">
+    <image class='cameraView' src='http://192.168.137.170:8080/?action=stream' style="z-index:1"></image>
+</view> -->
+
+
+
+
