@@ -1,0 +1,36 @@
+wget https://bootstrap.pypa.io/get-pip.py
+sudo python3 get-pip.py
+
+workon py3cv3
+python
+
+
+deb http://mirrors.tuna.tsinghua.edu.cn/raspberry-pi-os/raspbian/ buster main non-free contrib rpi
+deb-src http://mirrors.tuna.tsinghua.edu.cn/raspberry-pi-os/raspbian buster main non-free contrib rpi
+
+deb http://mirrors.tuna.tsinghua.edu.cn/raspberrypi/ buster main ui
+
+sudo apt-get install -y libopencv-dev python3-opencv
+sudo apt-get install libatlas-base-dev
+sudo apt-get install libjasper-dev
+sudo apt-get install libqtgui4
+sudo apt-get install python3-pyqt5
+sudo apt install libqt4-test
+
+sudo nano /etc/apt/sources.list
+
+sudo nano /etc/apt/sources.list.d/raspi.list
+
+./mjpg_streamer -i "./input_raspicam.so" -o "./output_http.so -w ./www"
+./mjpg_streamer -i "./input_uvc.so" -o "./output_http.so -w ./www"
+cd mjpg-streamer-master/mjpg-streamer-experimental
+
+
+https://www.csdn.net/tags/MtTaMgxsNzc0MzgtYmxvZwO0O0OO0O0O.html
+
+http://192.168.137.170:8080/?action=stream
+
+cd /home/pi/Downloads/measureh/
+python3 heightmea.py
+
+mjpg_streamer -i "/usr/lib/input_uvc.so -d /dev/video0 -y  -r 320x240 -f 15" -o "/usr/lib/output_http.so -p 8090 -w ./www"
