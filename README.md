@@ -12,24 +12,24 @@
 
 -**rasberrypi measureheight(py)**
 
-# Project Introduction and National First Prize Achievement
+## Project Showcase
 
-Our project was honored with the national first prize in 2022 competition, a great recognition of our team's effort and innovation.
+Below are MP4 showcasing the core content and highlights of our project.
 
-## Project GIF Showcase
-
-Below are GIFs showcasing the core content and highlights of our project.
-
-### GIF 1: sim
-![sim](https://github.com/runjtu/jump-robot/assets/70926090/a74b536e-bcdc-4082-bc9e-c63976d524d7)
+### MP4 1: sim
+![sim](https://github.com/runjtu/jump-robot/assets/70926090/7310339a-f677-434e-9b63-486f755616fe)
 
 
 ### GIF 2: headstand
-![headstand](https://github.com/runjtu/jump-robot/assets/70926090/8cbd9f98-a334-43ce-906d-f1e4ee8abdd5)
+![headstand](https://github.com/runjtu/jump-robot/assets/70926090/ff396779-6ded-4114-9449-8ebfb83be143)
+
 
 
 ### GIF 3: jump
-![jump](https://github.com/runjtu/jump-robot/assets/70926090/a417b6c4-a84d-40b3-8d08-09b7ccf207f9)
+![jump](https://github.com/runjtu/jump-robot/assets/70926090/ceace5f2-b81a-4956-8c86-2355e71c4336)
+
+
+
 
 
 ## Award Details
