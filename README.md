@@ -20,12 +20,12 @@ Below are MP4 showcasing the core content and highlights of our project.
 ![sim](https://github.com/runjtu/jump-robot/assets/70926090/7310339a-f677-434e-9b63-486f755616fe)
 
 
-### GIF 2: headstand
+### MP4 2: headstand
 ![headstand](https://github.com/runjtu/jump-robot/assets/70926090/ff396779-6ded-4114-9449-8ebfb83be143)
 
 
 
-### GIF 3: jump
+### MP4 3: jump
 ![jump](https://github.com/runjtu/jump-robot/assets/70926090/ceace5f2-b81a-4956-8c86-2355e71c4336)
 
 
