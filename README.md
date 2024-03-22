@@ -34,7 +34,7 @@ Below are GIFs showcasing the core content and highlights of our project.
 
 ## Award Details
 
-Our project won the national first prize in the XXXX competition, a tremendous honor for our team. You can learn more about this award by following the link below.
+You can learn more about this award by following the link below.
 
 [Click here to read more about our award]((http://11umic.hust.edu.cn/info/1109/1024.htm)http://11umic.hust.edu.cn/info/1109/1024.htm)
 
