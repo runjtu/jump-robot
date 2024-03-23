@@ -10,11 +10,11 @@
 -**wechat app interface (wx)** 
 
 
--**rasberrypi measureheight(py)**
+-**rasberrypi measure height (py)**
 
 ## Project Showcase
 
-Below are MP4 showcasing the core content and highlights of our project.
+Below are MP4 showcasing the core content and highlights of our project. U can download them.
 
 ### MP4 1: sim
 ![sim](https://github.com/runjtu/jump-robot/assets/70926090/7310339a-f677-434e-9b63-486f755616fe)
@@ -27,8 +27,6 @@ Below are MP4 showcasing the core content and highlights of our project.
 
 ### MP4 3: jump
 ![jump](https://github.com/runjtu/jump-robot/assets/70926090/ceace5f2-b81a-4956-8c86-2355e71c4336)
-
-
 
 
 
