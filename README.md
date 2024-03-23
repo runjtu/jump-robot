@@ -36,4 +36,4 @@ Below are MP4 showcasing the core content and highlights of our project.
 
 You can learn more about this award by following the link below.
 
-http://11umic.hust.edu.cn/info/1109/1024.htm)http://11umic.hust.edu.cn/info/1109/1024.htm
+http://11umic.hust.edu.cn/info/1109/1024.htm
