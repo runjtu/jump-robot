@@ -1,4 +1,4 @@
-# jump-robot
+# jump-locust-robot
 
 
 🚀bio-inspired jumpingrobot
