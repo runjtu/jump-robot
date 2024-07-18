@@ -16,8 +16,6 @@
 
 We provide MP4 showcasing the core content and highlights of our project. U can download them.
 
-[Watch the video](jump.mp4)
-
 ## Award Details
 
 You can learn more about this award by following the link below.
