@@ -16,12 +16,7 @@
 
 We provide MP4 showcasing the core content and highlights of our project. U can download them.
 
-<div align="center">
-  <video width="320" height="240" controls>
-    <source src="jump.mp4" type="video/mp4">
-    Your browser does not support the video tag.
-  </video>
-</div>
+[Watch the video](jump.mp4)
 
 ## Award Details
 
