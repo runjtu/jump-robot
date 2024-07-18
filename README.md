@@ -16,11 +16,12 @@
 
 We provide MP4 showcasing the core content and highlights of our project. U can download them.
 
-<v align="center">
-    <video>
-    <img alt="gaustudio" src="jump.mp4" width="100%">
-    </video>
-</v>
+<div align="center">
+  <video width="320" height="240" controls>
+    <source src="./jump.mp4" type="video/mp4">
+    Your browser does not support the video tag.
+  </video>
+</div>
 
 ## Award Details
 
