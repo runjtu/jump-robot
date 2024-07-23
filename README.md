@@ -17,14 +17,15 @@
 We provide MP4 showcasing the core content and highlights of our project. U can download them.
 
 -**sim in sw**
+<img src="./sim.gif" alt="intersection" style="width:50%; height:auto;">
 
-https://github.com/user-attachments/assets/fa7efd26-3cec-4c7e-8044-d22af9b97d90
 
 -**jump in real world**
 
+<img src="./jump.gif" alt="loading" style="width:50%; height:auto;">
 
-<iframe src="https://github.com/runjtu/jump-robot/blob/main/headstand.mp4" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe>
 -**headstand**
+<img src="./headstand.gif" alt="unloading" style="width:50%; height:auto;">
 
 
 
